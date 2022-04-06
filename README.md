@@ -11,3 +11,23 @@ Aula - 04.03.2022
 <img src="![IMG_20220321_191902](https://user-images.githubusercontent.com/88752151/159374816-5db6251e-65e9-4e62-8e63-2345cbcbecc9.jpg)" width="700px" />
 
 </div>
+<div align-"center">
+<img src="![IMG_20220321_191902](https://user-images.githubusercontent.com/88752151/159374816-5db6251e-65e9-4e62-8e63-2345cbcbecc9.jpg)" width="700px" />
+
+</div>
+  <div align-"center">
+<img src="![IMG_20220321_191902](https://user-images.githubusercontent.com/88752151/159374816-5db6251e-65e9-4e62-8e63-2345cbcbecc9.jpg)" width="700px" />
+
+</div>
+  <div align-"center">
+<img src="![IMG_20220321_191902](https://user-images.githubusercontent.com/88752151/159374816-5db6251e-65e9-4e62-8e63-2345cbcbecc9.jpg)" width="700px" />
+
+</div>
+  <div align-"center">
+<img src="![IMG_20220321_191902](https://user-images.githubusercontent.com/88752151/159374816-5db6251e-65e9-4e62-8e63-2345cbcbecc9.jpg)" width="700px" />
+
+</div>
+  <div align-"center">
+<img src="![IMG_20220321_191902](https://user-images.githubusercontent.com/88752151/159374816-5db6251e-65e9-4e62-8e63-2345cbcbecc9.jpg)" width="700px" />
+
+</div>
