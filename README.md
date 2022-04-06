@@ -1,33 +1,12 @@
-# Engenharia-de-Software
-Trabalhos Engengharia de Software
+Engenharia de Software
 
-Aula - 04.03.2022
+Ciclo de vida
 
-<span>
+Requisitos
 
-![IMG_20220321_191902](https://user-images.githubusercontent.com/88752151/159374816-5db6251e-65e9-4e62-8e63-2345cbcbecc9.jpg)
+Funcionais / Storys cards:
 
-<div align-"center">
-<img src="![IMG_20220321_191902](https://user-images.githubusercontent.com/88752151/159374816-5db6251e-65e9-4e62-8e63-2345cbcbecc9.jpg)" width="700px" />
+![IMG_20220404_200319](https://user-images.githubusercontent.com/88752151/162082480-688e254b-48f8-4677-bcbe-41b3684a800e.jpg)
 
-</div>
-<div align-"center">
-<img src="![IMG_20220321_191902](https://user-images.githubusercontent.com/88752151/159374816-5db6251e-65e9-4e62-8e63-2345cbcbecc9.jpg)" width="700px" />
 
-</div>
-  <div align-"center">
-<img src="![IMG_20220321_191902](https://user-images.githubusercontent.com/88752151/159374816-5db6251e-65e9-4e62-8e63-2345cbcbecc9.jpg)" width="700px" />
 
-</div>
-  <div align-"center">
-<img src="![IMG_20220321_191902](https://user-images.githubusercontent.com/88752151/159374816-5db6251e-65e9-4e62-8e63-2345cbcbecc9.jpg)" width="700px" />
-
-</div>
-  <div align-"center">
-<img src="![IMG_20220321_191902](https://user-images.githubusercontent.com/88752151/159374816-5db6251e-65e9-4e62-8e63-2345cbcbecc9.jpg)" width="700px" />
-
-</div>
-  <div align-"center">
-<img src="![IMG_20220321_191902](https://user-images.githubusercontent.com/88752151/159374816-5db6251e-65e9-4e62-8e63-2345cbcbecc9.jpg)" width="700px" />
-
-</div>
