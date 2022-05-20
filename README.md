@@ -20,4 +20,7 @@ Opção de retorno na plataforma - 3ª Heurística
 A opção de ajuda da uma saída para o usuário se orientar - 10ª Heurística 
 ![IMG_20220404_200327](https://user-images.githubusercontent.com/88752151/162083329-55a0ecc0-bcee-4b41-aa46-af9c28dfa304.jpg)
 
+![a61b1b2a-48d6-4dde-ab4c-a62f1449957f](https://user-images.githubusercontent.com/88752151/169595864-dcf5e20a-6a47-4dfd-b4b5-4aa37ff43590.jpg)
+
+
 
