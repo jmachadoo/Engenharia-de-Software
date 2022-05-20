@@ -34,7 +34,7 @@ import java.util.LinkedList; import java.util.List;
 
 public class Plataforma {
 
- private List<Pessoa> pessoa = new LinkedList<Pessoa>();
+private List<Pessoa> pessoa = new LinkedList<Pessoa>();
 
  public void cadastrarPessoa(Pessoa pessoa){
       pessoa.add(pessoa);
@@ -61,15 +61,16 @@ public class Plataforma {
        List<Pessoa> pessoas = null;
 	return pessoas;
  }
-}
+	
+	}
 
 Plataforma de Ensino/Pessoa
 
-package Plataforma_de_Ensinoo;
+package Plataforma_de_Ensino;
 
 public class Pessoa {
-
-private String Pessoa;
+	
+	private String Pessoa;
 private String Turma;
 private int RA;
 private String Data_de_Nascimento;
@@ -120,7 +121,8 @@ public int getCPF(){
 
 public void setCPF(int novaCPF) {
 	this.CPF = novaCPF;
-}
+	
+	}
 
 public void add(Pessoa pessoa2) {
 	
@@ -132,13 +134,14 @@ public Diciplina getDiciplina() {
 	return null;
 }
 }
-Plataforma/Diciplina
+	
+	Plataforma/Diciplina
 
 package Plataforma_de_Ensinoo;
 
 public class Diciplina {
-
-private String Materia;
+	
+	private String Materia;
 private String Professor;
 private String Turma;
 
