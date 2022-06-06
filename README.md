@@ -26,7 +26,7 @@ Projeto diagrama
 
 Densenvolvimento
 
-Plataforma de Ensino/Main
+    Plataforma de Ensino/Main
 
 package Plataforma_de_Ensinoo;
 
